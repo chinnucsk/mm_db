@@ -7,7 +7,6 @@
                   kernel,
                   stdlib,
                   mm_config,
-                  poolboy,
                   epgsql
                  ]},
   {mod, { mm_db_app, []}},
